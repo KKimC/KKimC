@@ -1,10 +1,6 @@
-### Hi there 👋
-
-<!--
 - 🔭 I’m currently working on ... Samsung
 - 🌱 I’m currently learning ... C/Embeddid & CPP/Algorithm
 - 👯 I’m looking to collaborate on ... Embeddid drone project partner
--->
 
 # Kim SungHyum 
 
