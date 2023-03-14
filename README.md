@@ -8,7 +8,7 @@
 
 ![KKimC's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKimC&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsn04116)](https://solved.ac/nsn04116/)
-# 💪Skills
+# Skills
 ### Getting used
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/CPP-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
