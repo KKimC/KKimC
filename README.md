@@ -10,13 +10,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsn04116)](https://solved.ac/nsn04116/)
 # 💪Skills
 ### Platforms & Languages
+![Octave](https://img.shields.io/badge/Octave-0790C0.svg?&style=for-the-badge&logo=Octave&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-000000.svg?&style=for-the-badge&logo=Matlab&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/CPP-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/CPP-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![Octave](https://img.shields.io/badge/Octave-0790C0.svg?&style=for-the-badge&logo=Octave&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 
 
