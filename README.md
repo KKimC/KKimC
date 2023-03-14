@@ -35,6 +35,6 @@
 ![Pychram](https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&link=https://physicstocom.tistory.com/)](https://physicstocom.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=Tistory&link=https://physicstocom.tistory.com/)](https://physicstocom.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coderksh@gmail.com)](mailto:coderksh@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rla04116@naver.com)](mailto:nsn04116@naver.com)
